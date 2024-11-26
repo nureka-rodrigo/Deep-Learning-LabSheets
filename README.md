@@ -1,15 +1,15 @@
-# Deep-Learning-Labsheet-01
+# Deep-Learning-Labsheets
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/nureka-rodrigo/Deep-Learning-Labsheet-01.git
+    git clone https://github.com/nureka-rodrigo/Deep-Learning-Labsheets.git
     ```
 
 2. Navigate into the project directory:
     ```sh
-    cd Deep-Learning-Labsheet-01
+    cd Deep-Learning-Labsheets
     ```
 
 3. Create a virtual environment:
