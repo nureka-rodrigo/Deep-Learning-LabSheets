@@ -1,4 +1,4 @@
-# Deep-Learning-Labsheets
+# Deep-Learning-LabSheets
 
 ## Installation
 
