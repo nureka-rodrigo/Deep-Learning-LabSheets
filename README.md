@@ -4,22 +4,22 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/nureka-rodrigo/Deep-Learning-Labsheets.git
+    git clone https://github.com/nureka-rodrigo/Deep-Learning-LabSheets.git
     ```
 
 2. Navigate into the project directory:
     ```sh
-    cd Deep-Learning-Labsheets
+    cd Deep-Learning-LabSheets
     ```
 
 3. Create a virtual environment:
     ```sh
-    python -m venv venv
+    python -m venv .venv
     ```
 
 4. Activate the virtual environment:
     ```sh
-    venv\Scripts\activate
+    .venv\Scripts\activate
     ```
 
 5. Install the required packages:
